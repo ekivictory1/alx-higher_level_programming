@@ -5,4 +5,3 @@ for num in range(0, 100):
         print(num)
     else:
         print('{:02d},'.format(num), end=" ")
-
