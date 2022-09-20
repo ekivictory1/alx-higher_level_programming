@@ -7,4 +7,3 @@ for num in range(0, 9):
                 print("{}{}".format(num, num_1))
             else:
                 print("{}{},".format(num, num_1), end=" ")
-
