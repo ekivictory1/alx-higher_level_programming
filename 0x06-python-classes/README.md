@@ -1,7 +1,7 @@
 ## 0x06. Python - Classes and Objects
 Python
 OOP
-![alt text](content://com.android.chrome.FileProvider/images/screenshot/166548769687223359189.jpg)
+![alt text](https://com.android.chrome.FileProvider/images/screenshot/166548769687223359189.jpg)
 
 ## Author
 
