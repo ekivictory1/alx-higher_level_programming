@@ -2,6 +2,8 @@
 
 In this project, I continued to practice object-oriented programming in Python. I learned about class methods, static methods, class vs instance attributes, andbhow to use the special `__str__` and `__repr__` methods.
 
+![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg)
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files. Provided by Holberton School.
